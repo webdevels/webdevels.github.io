@@ -122,7 +122,7 @@ div a:hover{
 /*testimonials*/
 
 .testimonial {
-    background-image: url("../images/community.jpg");
+    background-image: url("images/community.jpg");
     background-position: 50% 50%;
     background-attachment: fixed;
     background-repeat: no-repeat;
